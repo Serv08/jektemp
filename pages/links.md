@@ -1,13 +1,12 @@
 ---
 layout: page
 menu: true
-date: '2023-04-30 19:56:59'
 title: Links
 description: Important Links
 permalink: /links/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/character-profile.png" alt="Grace Icay" width="200">
+<img class="img-rounded" src="/assets/img/uploads/character-profile.png" alt="Animal Crossing Ketchup" width="200">
 
 # Writing
 
@@ -24,3 +23,7 @@ permalink: /links/
 # SNS
 
 <a href="https://www.linkedin.com/in/mary-grygjeanne-grace-icay-109184140/">LinkedIn</a> | <a href="https://www.wantedly.com/id/ika_i">Wantedly</a>
+
+# Donate
+
+Like my works? Please consider buying me a <a href="https://ko-fi.com/grayinfilm">**coffee!**</a> or becoming a sponsor for my <a href="https://digracesion.hashnode.dev/sponsor"> tech blog</a>

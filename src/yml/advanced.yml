@@ -1,6 +1,15 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://digracesion.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+title: About
+baseurl: "/about" # the subpath of your site, e.g. /blog
+title: Links
+baseurl: "/links" # the subpath of your site, e.g. /blog
+title: Recs
+baseurl: "/recs" # the subpath of your site, e.g. /blog
+title: Contact
+baseurl: "/contact" # the subpath of your site, e.g. /blog
+title: Feed
+baseurl: "/feed.xml" # the subpath of your site, e.g. /blog
+url: "https://grayinfilm.netlify.app" # the base hostname & protocol for your site
+#google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
