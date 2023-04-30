@@ -1,15 +1,48 @@
 # Site Settings
-=include site.yml
+name: Gray
+title: GrayInFilm
+description: Gray In Film is a personal website maintained and managed by Grace Icay.
+tags:
+  - grace+icay
+  - QA+blog
+  - techblog
+  - grayinfilm
+  - gray+in+film
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Links
+    url: /links
+  - title: Recs
+    url: /recs
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: mggicay@yahoo.co.jp
 
 # Social Media Settings
 # Remove the item if you don't need it
-=include social.yml
+github_username: digracesion
+instagram_username: gray__in__film
+linkedin_username: mary-grygjeanne-grace-icay-109184140
+medium_username: todorokis
 
 # Posts Settings
-=include posts.yml
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
 
 # Advanced Settings
-=include advanced.yml
+url: "https://grayinfilm.netlify.app" # the base hostname & protocol for your site
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 
 # Build settings
 markdown: kramdown

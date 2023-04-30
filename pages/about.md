@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Grace Icay" width="200">
+<img src="/assets/img/uploads/profile.png" alt="Grace Icay">
 
 # About
 
