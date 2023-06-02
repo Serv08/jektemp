@@ -1,5 +1,5 @@
 ---
-date: 2023-04-27 18:00:00
+date: 2023-04-28 18:00:00
 layout: post
 title: RIX vs. Notion AI - Writing an article on QA
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
