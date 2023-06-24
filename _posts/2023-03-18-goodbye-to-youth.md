@@ -15,4 +15,4 @@ paginate: true
 ***And maybe it because we were young and we were stupid (and we didn’t know it yet). But when you hold my hand, I only feel relieved.***
 
 
-Read the full story on <a href="https://medium.com/@todorokis/goodbye-to-youth-aa35ed0f90e2">Medium</a>
+Read the full story on [Medium](https://medium.com/@todorokis/goodbye-to-youth-aa35ed0f90e2)

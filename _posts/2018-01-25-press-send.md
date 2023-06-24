@@ -16,4 +16,4 @@ paginate: true
 ***It takes a long while, but I wait, and wait, and wait…***
 
 
-Read the full story on <a href="https://medium.com/the-creative-cafe/press-send-ba86d0c92b2b">Medium</a>
+Read the full story on [Medium](https://medium.com/the-creative-cafe/press-send-ba86d0c92b2b)

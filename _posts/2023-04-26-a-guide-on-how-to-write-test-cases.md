@@ -17,4 +17,4 @@ paginate: true
 ***How do you write Test Cases? Here’s a Helpful Guide on Tools to use, Formats, and Best Practices***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/a-guide-on-how-to-write-test-cases">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/a-guide-on-how-to-write-test-cases)

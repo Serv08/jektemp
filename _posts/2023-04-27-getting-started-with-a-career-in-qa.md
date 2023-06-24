@@ -19,4 +19,4 @@ paginate: true
 ***Here's a guide to help you, from the perspective of a Software Developer-turned-QA Engineer***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/getting-started-with-a-career-in-qa">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/getting-started-with-a-career-in-qa)

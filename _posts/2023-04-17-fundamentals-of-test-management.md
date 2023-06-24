@@ -18,4 +18,4 @@ paginate: true
 ***Some notes on The Fundamentals of Test Management, as shared by Test Rail in their Free E-book***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/the-fundamentals-of-test-management">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/the-fundamentals-of-test-management)

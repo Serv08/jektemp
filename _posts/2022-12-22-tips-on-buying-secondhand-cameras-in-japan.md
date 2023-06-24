@@ -18,4 +18,6 @@ paginate: true
 ***Want to buy a camera but find prices overwhelming? Secondhand camera shops are your friends!***
 
 
-Read the full story on <a href="https://medium.com/japonica-publication/tips-on-buying-secondhand-cameras-in-japan-17a186d15ac">Medium</a>
+Read the full story on [Medium](https://medium.com/japonica-publication/tips-on-buying-secondhand-cameras-in-japan-17a186d15ac)
+
+Originally posted on [Wordpress](https://grayinfilm.com/2022/12/22/tips-on-buying-secondhand-cameras-in-japan/)

@@ -16,4 +16,4 @@ paginate: true
 ***Starting a blog in 2023: the good, the bad, and the unreadable***
 
 
-Read the full story on <a href="https://medium.com/@todorokis/so-you-think-you-can-write-ab1a63da70b1">Medium</a>
+Read the full story on [Medium](https://medium.com/@todorokis/so-you-think-you-can-write-ab1a63da70b1)

@@ -18,4 +18,4 @@ paginate: true
 ***In the context of Software Development, a bug is an unexpected result of an unwanted event triggered due to known or unknown causes, which ends up making the software application not work as per the expected results or as specified in the requirements***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/ewww-why-is-there-a-bug-in-my-code">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/ewww-why-is-there-a-bug-in-my-code)

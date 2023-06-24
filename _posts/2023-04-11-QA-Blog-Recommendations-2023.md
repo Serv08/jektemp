@@ -17,4 +17,4 @@ paginate: true
 ***As someone who has been a manual tester for over three years and is just starting to learn about automation, I found the following blogs to be insightful and helpful resources for learning more about QA.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/qa-blog-recommendations-for-2023">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/qa-blog-recommendations-for-2023)

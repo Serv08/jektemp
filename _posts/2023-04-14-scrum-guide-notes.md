@@ -18,4 +18,4 @@ paginate: true
 ***Here is a list of Notes, Points to Remember, and References in preparation for the Scrum Master Certification Exam.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/scrum-guide-notes">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/scrum-guide-notes)

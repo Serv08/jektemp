@@ -17,4 +17,4 @@ paginate: true
 ***If you’re not that familiar with Japanese yet, it’s easier to filter through job offers using English-friendly websites.***
 
 
-Read the full story on <a href="https://medium.com/@todorokis/job-hunting-websites-to-get-an-it-job-in-japan-c7516846ce5">Medium</a>
+Read the full story on [Medium](https://medium.com/@todorokis/job-hunting-websites-to-get-an-it-job-in-japan-c7516846ce5)

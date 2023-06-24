@@ -18,6 +18,6 @@ paginate: true
 ***Burnout in tech and all the other nitty-gritty things.***
 
 
-Read the full story on <a href="">Medium</a>
+Read the full story on [Medium](https://todorokis.medium.com/whats-so-great-about-the-great-resignation-5b6b092c6c24)
 
-Originally posted on <a href="https://grayinfilm.com/2023/03/09/whats-so-great-about-the-great-resignation/">Wordpress</a>
+Originally posted on [Wordpress](https://grayinfilm.com/2023/03/09/whats-so-great-about-the-great-resignation/)

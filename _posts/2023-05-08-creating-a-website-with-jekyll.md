@@ -17,4 +17,4 @@ paginate: true
 ***I made a guide on how to use Jekyll to create your personal website/portfolio!***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/creating-a-websiteportfolio-with-jekyll">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/creating-a-websiteportfolio-with-jekyll)

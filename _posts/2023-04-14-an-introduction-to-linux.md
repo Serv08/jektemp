@@ -17,4 +17,4 @@ paginate: true
 ***Linux is a type of Operating System (OS) that is Free and Open Source, running on the GNU General Public License.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/an-introduction-to-linux-os">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/an-introduction-to-linux-os)

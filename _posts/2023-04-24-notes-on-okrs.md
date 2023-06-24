@@ -18,4 +18,4 @@ paginate: true
 ***OKR is a framework used as a goal-settings system known for its "management by key results" strategy***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/notes-on-okrs">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/notes-on-okrs)

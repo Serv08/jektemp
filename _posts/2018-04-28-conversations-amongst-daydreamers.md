@@ -16,4 +16,4 @@ paginate: true
 ***This time, you have a cigarette stuck between your lips, and it dangles there dangerously, the same way you look a little too close to falling from the building’s ledge as you walk on it like a tightrope.***
 
 
-Read the full story on <a href="https://medium.com/the-creative-cafe/conversations-among-daydreamers-ce17c2c8a05d">Medium</a>
+Read the full story on [Medium](https://medium.com/the-creative-cafe/conversations-among-daydreamers-ce17c2c8a05d)

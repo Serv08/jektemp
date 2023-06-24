@@ -18,4 +18,4 @@ paginate: true
 ***Learning a new language can be difficult, especially if you’re learning by yourself and are not immersed in the culture of the language you’re studying.***
 
 
-Read the full story on <a href="https://medium.com/japonica-publication/how-to-learn-a-new-language-japanese-edition-7039e46dda7a">Medium</a>
+Read the full story on [Medium](https://medium.com/japonica-publication/how-to-learn-a-new-language-japanese-edition-7039e46dda7a)

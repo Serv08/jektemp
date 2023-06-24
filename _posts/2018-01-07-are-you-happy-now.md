@@ -16,4 +16,4 @@ paginate: true
 ***Maybe we could settle for an okay ending.***
 
 
-Read the full story on <a href="https://medium.com/the-creative-cafe/are-you-happy-now-f3e146d8983b">Medium</a>
+Read the full story on [Medium](https://medium.com/the-creative-cafe/are-you-happy-now-f3e146d8983b)

@@ -9,6 +9,7 @@ tags:
   - non-fiction
   - japan
   - tech
+  - tokyodev
 author: gray
 paginate: true
 ---
@@ -16,4 +17,4 @@ paginate: true
 ***I interviewed some Filipino software developers in Japan and shared the insights and experiences we all had as employees here in Japan***
 
 
-Read the full story on <a href="https://www.tokyodev.com/2023/05/23/filipino-software-developers-in-japan/">Tokyo Dev</a>
+Read the full story on [Tokyo Dev](https://www.tokyodev.com/2023/05/23/filipino-software-developers-in-japan/)

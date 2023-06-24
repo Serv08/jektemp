@@ -17,4 +17,4 @@ paginate: true
 ***Grammarly also weighs in on the decision.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/rix-vs-notion-ai-writing-an-article-on-qa">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/rix-vs-notion-ai-writing-an-article-on-qa)

@@ -17,4 +17,4 @@ paginate: true
 ***Here’s a list of tried and tested writing tools (based on my personal experience and testimonies from other people, of course) to help you boost your creativity, organize your things and collaborate with people better this 2023!***
 
 
-Read the full story on <a href="https://medium.com/@todorokis/must-try-writing-tools-in-2023-dbe9eca22723">Medium</a>
+Read the full story on [Medium](https://medium.com/@todorokis/must-try-writing-tools-in-2023-dbe9eca22723)

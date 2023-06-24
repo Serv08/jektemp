@@ -17,4 +17,4 @@ paginate: true
 ***It's so common to see applications--on the web and mobile devices alike--with colorful pages and awesome animations nowadays. But at some point, these designs get too much that instead of helping the users, they get too much to interact with.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/ui-design-principles-and-the-importance-of-usability-testing">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/ui-design-principles-and-the-importance-of-usability-testing)

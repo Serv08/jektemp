@@ -18,4 +18,4 @@ paginate: true
 ***Nevertheless, I was still able to discover several apps that helped me focus on my work and helped increase my productivity.***
 
 
-Read the full story on <a href="https://medium.com/@todorokis/productivity-tools-for-2023-6dba8c7d2464">Medium</a>
+Read the full story on [Medium](https://medium.com/@todorokis/productivity-tools-for-2023-6dba8c7d2464)

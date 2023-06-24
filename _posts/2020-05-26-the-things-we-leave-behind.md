@@ -19,4 +19,4 @@ paginate: true
 ***My weekdays were always like that: lather, rinse, repeat.***
 
 
-Read the full story on <a href="https://medium.com/the-creative-cafe/the-things-we-leave-behind-e0ecf017677e">Medium</a>
+Read the full story on [Medium](https://medium.com/the-creative-cafe/the-things-we-leave-behind-e0ecf017677e)

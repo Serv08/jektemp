@@ -16,4 +16,4 @@ paginate: true
 ***I asked an AI to make a presentation on the Software Quality Assurance Basics. Here’s how it went.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/i-used-an-ai-to-make-a-presentation">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/i-used-an-ai-to-make-a-presentation)

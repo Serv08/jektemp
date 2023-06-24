@@ -17,4 +17,4 @@ paginate: true
 ***Life after college graduation turns out to be completely underwhelming.***
 
 
-Read the full story on <a href="https://medium.com/the-creative-cafe/but-i-see-no-stars-64c775f875f2">Medium</a>
+Read the full story on [Medium](https://medium.com/the-creative-cafe/but-i-see-no-stars-64c775f875f2)

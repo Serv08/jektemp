@@ -15,9 +15,9 @@ author: gray
 paginate: true
 ---
 
-Ryoko of <a href="https://www.ejable.com/">EJable.com</a> reached out to me to get an insight into my life as an expat in Japan.
+Ryoko of [EJable](https://www.ejable.com/) reached out to me to get an insight into my life as an expat in Japan.
 I also talked about how I was able to work in the country despite the cultural differences and the language barriers.
 
-The Full Transcript of the Interview Can be found <a href="https://www.ejable.com/interviews-with-engineers-in-japan/interview-with-mary-grace-of-lenovo-japan/">here.</a>
+The Full Transcript of the Interview Can be found [here.](https://www.ejable.com/interviews-with-engineers-in-japan/interview-with-mary-grace-of-lenovo-japan/)
 
-The full video can be found <a href="https://www.youtube.com/watch?v=T8yzdFee9Pw&t=1s">here.</a>
+The full video can be found [here.](https://www.youtube.com/watch?v=T8yzdFee9Pw&t=1s)

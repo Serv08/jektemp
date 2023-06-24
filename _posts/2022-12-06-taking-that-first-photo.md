@@ -18,6 +18,6 @@ paginate: true
 ***Just point your camera and shoot.***
 
 
-Read the full story on <a href="https://todorokis.medium.com/taking-that-first-photo-bad67dc35304">Medium</a>
+Read the full story on [Medium](https://todorokis.medium.com/taking-that-first-photo-bad67dc35304)
 
-Originally posted on <a href="https://grayinfilm.com/2022/12/06/taking-that-first-photo/">Wordpress</a>
+Originally posted on [Wordpress](https://grayinfilm.com/2022/12/06/taking-that-first-photo/)

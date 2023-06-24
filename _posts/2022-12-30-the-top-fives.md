@@ -84,3 +84,8 @@ As someone who’s a sucker for the 90s aesthetic, this show is a must-watch. Se
 + **Spy x Family**
 
 This one is probably a crowd favorite. I haven’t met a single person who has hated this show at all. All of the characters of this show are loveable as hell and the progression of the show as they try to keep the peace between Westalis and Ostania gets ridiculous by the moment, but I can’t really blame them because it’s fiction so there’s supposed to be a certain threshold of suspension of disbelief for that, right? Also, this show is so popular that there’s just so much merch, store collaborations, and ads about it all around Japan. And well, is it obvious if I say that I’ve seen way too many people (regardless of age, gender, and race) dressed up as Anya during the Halloween season around Tokyo?
+
+
+****
+
+Originally posted on [Wordpress](https://grayinfilm.com/2022/12/30/2022-the-top-fives/)

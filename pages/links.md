@@ -10,19 +10,23 @@ permalink: /links/
 
 # Writing
 
-<a href="https://todorokis.medium.com">Medium</a> | <a href="https://digracesion.hashnode.dev/">Hashnode </a> | <a href="https://grayinfilm.com/">Wordpress</a>
+[Medium](https://todorokis.medium.com) | [Hashnode](https://digracesion.hashnode.dev/) | [Wordpress]("https://grayinfilm.com/)
 
 # Technology
 
-<a href="https://app.daily.dev/grayxie">Daily Dev</a> | <a href="https://github.com/digracesion/"> Github</a>
+[Daily Dev](https://app.daily.dev/grayxie) | [Github](https://github.com/digracesion/)
 
 # Photography
 
-<a href="https://www.behance.net/mggicay">Behance</a> | <a href="https://instagram.com/gray__in__film">Instagram</a>
+[Behance](https://www.behance.net/mggicay) | [Instagram](https://instagram.com/gray__in__film) | [Kavyar](kavyar.me/grace-icay)
 
-# SNS
+# Professional Networks
 
-<a href="https://www.linkedin.com/in/mary-grygjeanne-grace-icay-109184140/">LinkedIn</a> | <a href="https://www.wantedly.com/id/ika_i">Wantedly</a>
+[LinkedIn](https://www.linkedin.com/in/mary-grygjeanne-grace-icay-109184140/) | [Wantedly](https://www.wantedly.com/id/ika_i) | [ADPList](https://adplist.org/members/mary-grygjeanne-grace-icay) | [Upwork](https://www.upwork.com/freelancers/~0126951d427c9ca723?viewMode=1)
+
+# Creative Organizations
+
+[NiceShot Creatives](https://instagram.com/niceshot.creatives) | [Tokyo Archives](https://instagram.com/tokyo__archives)
 
 # Donate
 

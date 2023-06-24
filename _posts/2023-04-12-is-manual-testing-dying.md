@@ -18,4 +18,4 @@ paginate: true
 ***With the rising trend among companies preferring to instead hire applicants with backgrounds as SDETs over those with only "Manual Testing" experiences backing them up in their portfolios, is it time to watch out for ourselves? Is Manual Testing finally, undeniably, going away for good?***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/is-manual-testing-dying">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/is-manual-testing-dying)

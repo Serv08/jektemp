@@ -17,4 +17,4 @@ paginate: true
 ***I attended an online event by the Women Who Code Community (WWC) last May 23rd and wrote an event recap. Empowering Yourself, Empowering Others: Mentorship Toolkit in Different Cultures and is the first of three events from this series.***
 
 
-Read the full story on <a href="https://digracesion.hashnode.dev/women-who-code-event-recap-empowering-yourself-empowering-others-mentorship-toolkit-in-different-cultures">Hashnode</a>
+Read the full story on [Hashnode](https://digracesion.hashnode.dev/women-who-code-event-recap-empowering-yourself-empowering-others-mentorship-toolkit-in-different-cultures)

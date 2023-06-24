@@ -16,4 +16,4 @@ paginate: true
 ***The process might be long and painful, but persistence will pay off in the end***
 
 
-Read the full story on <a href="https://medium.com/japonica-publication/tips-for-landing-a-job-in-japan-b1b94315f177">Medium</a>
+Read the full story on [Medium](https://medium.com/japonica-publication/tips-for-landing-a-job-in-japan-b1b94315f177)
