@@ -18,7 +18,7 @@ permalink: /links/
 
 # Photography
 
-[Behance](https://www.behance.net/mggicay) | [Instagram](https://instagram.com/gray__in__film) | [Kavyar](kavyar.me/grace-icay)
+[Behance](https://www.behance.net/mggicay) | [Instagram](https://instagram.com/gray__in__film) | [Kavyar](https://kavyar.me/grace-icay)
 
 # Professional Networks
 
@@ -27,6 +27,10 @@ permalink: /links/
 # Creative Organizations
 
 [NiceShot Creatives](https://instagram.com/niceshot.creatives) | [Tokyo Archives](https://instagram.com/tokyo__archives)
+
+# Others
+
+[Threads](https://www.threads.net/@gray__in__film) | [Bluesky](https://grcyx.bsky.social) | [Pinterest](https://www.pinterest.com/graysus/) | [Spotify](https://open.spotify.com/user/jijinism?si=93567e240524444f&nd=1)
 
 # Donate
 
