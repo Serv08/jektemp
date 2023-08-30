@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .idea
 .DS_Store
 .sass-cache
@@ -6,3 +7,8 @@ package-json.lock
 _site
 node_modules
 _drafts
+=======
+.astro
+node_modules
+dist
+>>>>>>> dca1aed (GrayinFilm v2)
